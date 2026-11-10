@@ -16,7 +16,7 @@
   A premium, interactive, 3D WebGL web platform built with a <b>Bright Premium Aesthetic</b> (Apple-style presentation, glassmorphism, dynamic physical refraction, GSAP ScrollTrigger, and real-time procedural Web Audio).
 </p>
 
-[Explore Sections](#-comprehensive-website-architecture) • [Getting Started](#-getting-started) • [Deployment](#-deployment--hosting-guide) • [Evaluator Presentation](#-presentation-highlights-for-college-evaluators)
+[Explore Sections](#-comprehensive-website-architecture) • [Getting Started](#-getting-started) • [Evaluator Presentation](#-presentation-highlights-for-college-evaluators)
 
 </div>
 
@@ -189,38 +189,6 @@ npm run build
 npm run preview
 ```
 The optimized assets will be emitted into the `dist/` directory with code splitting (`three`, `r3f`, `animation`, `vendor`).
-
----
-
-## 🌐 Deployment & Hosting Guide
-
-### Option A: Deploy to Vercel (Recommended)
-1. Push your repository to GitHub.
-2. Sign in to [Vercel](https://vercel.com) and click **"Add New Project"**.
-3. Import your `techfest-3d` repository.
-4. Framework Preset will automatically detect **Vite**.
-5. Build Command: `npm run build`
-6. Output Directory: `dist`
-7. Click **Deploy**.
-
-### Option B: Deploy to Netlify
-1. Create a `netlify.toml` file in the project root:
-   ```toml
-   [build]
-     command = "npm run build"
-     publish = "dist"
-   ```
-2. Link your GitHub repository in Netlify and click **Deploy Site**.
-
-### Option C: Deploy to GitHub Pages
-1. In `vite.config.ts`, set the base path to your repository name:
-   ```ts
-   export default defineConfig({
-     base: '/techfest-3d/',
-     // ...
-   });
-   ```
-2. Build and push the `dist` branch or configure GitHub Actions to deploy from `main`.
 
 ---
 
