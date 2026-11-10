@@ -9,3 +9,4 @@
   <polygon points="50,22 75,36 75,64 50,78 25,64 25,36" fill="#ffffff" opacity="0.9"/>
   <circle cx="50" cy="50" r="12" fill="url(#grad)"/>
 </svg>
+

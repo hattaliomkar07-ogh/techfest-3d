@@ -149,3 +149,4 @@ export function InnovationSection({ onSelectProject }: InnovationSectionProps) {
     </section>
   );
 }
+

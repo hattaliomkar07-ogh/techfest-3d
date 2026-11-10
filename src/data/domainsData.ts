@@ -361,3 +361,4 @@ export const DOMAINS: DomainItem[] = [
     icon: "Sparkles",
   },
 ];
+

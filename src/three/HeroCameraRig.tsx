@@ -24,3 +24,4 @@ export function HeroCameraRig({ pointer }: HeroCameraRigProps) {
 
   return null;
 }
+

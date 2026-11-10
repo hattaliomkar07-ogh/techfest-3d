@@ -106,3 +106,4 @@ export const FESTIVAL_METRICS: FestivalMetric[] = [
     isVerifiedPlaceholder: false,
   },
 ];
+

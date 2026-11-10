@@ -166,3 +166,4 @@ export function DomainModal({ domain, onClose, onRegisterClick }: DomainModalPro
     </AnimatePresence>
   );
 }
+

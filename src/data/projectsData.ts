@@ -129,3 +129,4 @@ export const INNOVATION_PROJECTS: ProjectItem[] = [
     badges: ["Civil Aviation Clearance", "90-Day Endurance", "Carbon Neutral"],
   },
 ];
+

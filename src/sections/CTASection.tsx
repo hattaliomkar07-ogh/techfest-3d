@@ -132,3 +132,4 @@ export function CTASection({ onOpenRegister }: CTASectionProps) {
     </section>
   );
 }
+

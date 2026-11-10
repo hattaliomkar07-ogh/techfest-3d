@@ -66,3 +66,4 @@ export function FloatingParticles({ count = 650 }: { count?: number }) {
     </points>
   );
 }
+

@@ -78,3 +78,4 @@ export function HeroCanvas({ pointer }: HeroCanvasProps) {
     </WebGLErrorBoundary>
   );
 }
+

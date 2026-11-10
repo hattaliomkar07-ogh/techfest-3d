@@ -152,3 +152,4 @@ export function DomainsSection({ onSelectDomain }: DomainsSectionProps) {
     </section>
   );
 }
+

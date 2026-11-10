@@ -19,3 +19,4 @@ export function ScrollTransformCanvas({ progress }: ScrollTransformCanvasProps) 
     </div>
   );
 }
+

@@ -231,3 +231,4 @@ export function RegisterModal({ isOpen, initialDomain = 'Artificial Intelligence
     </AnimatePresence>
   );
 }
+
