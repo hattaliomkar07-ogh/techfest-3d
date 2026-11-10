@@ -167,7 +167,7 @@ Rejecting typical dark cyberpunk tropes, this platform establishes a **Bright Pr
 ### 1. Installation
 Clone the repository or navigate to the project directory:
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/techfest-3d.git
+git clone https://github.com/hattaliomkar07-ogh/techfest-3d.git
 cd techfest-3d
 npm install
 ```
